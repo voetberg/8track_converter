@@ -1,0 +1,15 @@
+{
+  "name": "8track to spotify converter",
+  "version": "1.0",
+  "description": "Converts an 8tracks playlist to a spotify one",
+  "background":{
+
+  },
+  "page_action":{
+
+  },
+  "icons":{
+
+  },
+  "manifest_version": 1
+}
