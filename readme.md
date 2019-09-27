@@ -1,5 +1,8 @@
 ## 8tracks to spotify playlist converter
 
+#This project is dead until 8tracks starts issuing API keys again
+    ## If you work at 8tracks call me
+
 ###### Outline:
 1. scrape 8track page for list of songs in a given playlist
   * find webpage scraper
